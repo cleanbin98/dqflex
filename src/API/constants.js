@@ -1,1 +1,1 @@
-export const baseUrl = "http://hibin.link";
+export const baseUrl = "https://hibin.link";
