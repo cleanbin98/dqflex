@@ -26,7 +26,7 @@ const Nav = () => {
       />
       <img
         alt="User logged"
-        src="https://icons8.kr/icon/ipBLdOAQ6sRn/website"
+        src="https://e7.pngegg.com/pngimages/223/244/png-clipart-computer-icons-avatar-user-profile-avatar-heroes-rectangle.png"
         className="nav__avatar"
       />
     </nav>
